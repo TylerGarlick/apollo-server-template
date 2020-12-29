@@ -6,12 +6,15 @@
     "target": "ES2020",
     "module": "CommonJS",
     "moduleResolution": "Node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "lib": [
       "dom",
       "es6",
       "ES2015",
       "ES2017",
-      "ES2018"
+      "ES2018",
+      "ESNext.AsyncIterable"
     ]
   },
   "include": [

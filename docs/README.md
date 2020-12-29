@@ -1,3 +1,0 @@
-# Docs
-
-> Some documentation
